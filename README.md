@@ -5,6 +5,12 @@ It has: Categories & Products.
 
 ## Getting Started:
 * git clone the app to your machine. cd to the directory and then run the following:
+
+Run:
+```
+bundle install
+```
+Run  the server in port (3001) - This is important coz our react app will use port 3000.
 ```
 rails s -p 3001
 ```
